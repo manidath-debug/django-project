@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+html{
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+body{
+    margin: 0;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    
+
+   
+
+    
+}
